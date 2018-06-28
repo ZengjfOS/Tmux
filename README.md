@@ -8,12 +8,16 @@
 
 * clone这个仓库；
 * shell执行`auto.sh`：
-  * install last tmux
+  * install lastest tmux
   * link .tmux.conf file
 * relaod config: `ctrl+b r`
-* paste: `ctrl+b s`
+* paste: `ctrl+b a`
+* use predefine layout: `ctrl+b ctrl+a`
 
 ## Tmux Plugin Manager
 
 https://github.com/tmux-plugins/tpm
 
+## 显示效果
+
+![img/tmux.png](img/tmux.png)
