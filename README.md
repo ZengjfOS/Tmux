@@ -11,7 +11,7 @@
   * install lastest tmux
   * link .tmux.conf file
 * 加载默认配置: `ctrl+b r`
-* 复制: `ctrl+b space[ enter]`
+* 复制: `ctrl+b [ <space key> <enter key> ]`
 * 粘贴: `ctrl+b a`
 * 横分屏: `ctrl+b |`
 * 竖分屏: `ctrl+b -`
